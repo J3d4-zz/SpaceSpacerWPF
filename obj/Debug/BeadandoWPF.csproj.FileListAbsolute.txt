@@ -1,0 +1,15 @@
+D:\Work\BeadandoWPF\BeadandoWPF\bin\Debug\BeadandoWPF.exe.config
+D:\Work\BeadandoWPF\BeadandoWPF\bin\Debug\BeadandoWPF.exe
+D:\Work\BeadandoWPF\BeadandoWPF\bin\Debug\BeadandoWPF.pdb
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF.csprojAssemblyReference.cache
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\MainWindow.g.cs
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\App.g.cs
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF_MarkupCompile.cache
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF_MarkupCompile.lref
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\MainWindow.baml
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF.g.resources
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF.Properties.Resources.resources
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF.csproj.GenerateResource.cache
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF.csproj.CoreCompileInputs.cache
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF.exe
+D:\Work\BeadandoWPF\BeadandoWPF\obj\Debug\BeadandoWPF.pdb
